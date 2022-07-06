@@ -33,5 +33,5 @@ I'm Nathan, web developer focused and passionate about the front-end.
 <div>
 <br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/nathanff99/nathanff99/master/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/nathanff99/nathanff99/blob/output/github-contribution-grid-snake.svg)
 </div>
