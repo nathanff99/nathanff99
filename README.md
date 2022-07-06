@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nathanff99)](https://github.com/nathanff99)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanfischerhf/?locale=en_US/)](https://www.linkedin.com/in/nathanfischerhf/?locale=en_US)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nathanff99)](https://github.com/nathanff99){:target="_blank" rel="noopener"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanfischerhf/?locale=en_US/)](https://www.linkedin.com/in/nathanfischerhf/?locale=en_US){:target="_blank" rel="noopener"}
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanff99/)](https://www.instagram.com/nathanff99/){:target="_blank" rel="noopener"}
 
 I'm Nathan, web developer focused and passionate about the front-end.
 
@@ -28,10 +29,7 @@ I'm Nathan, web developer focused and passionate about the front-end.
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-<br>
 <div>
-<br>
 
 ![github contribution grid snake animation](https://github.com/nathanff99/nathanff99/blob/output/github-contribution-grid-snake.svg)
 </div>
