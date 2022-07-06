@@ -19,7 +19,7 @@ I'm Nathan, web developer focused and passionate about the front-end.
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -33,6 +33,5 @@ I'm Nathan, web developer focused and passionate about the front-end.
 <div>
 <br>
 
-![Snake animation](https://github.com/nathanff99/nathanff99/blob/output/github-contribution-grid-snake.svg)
- 
+![github contribution grid snake animation](https://raw.githubusercontent.com/nathanff99/nathanff99/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 </div>
