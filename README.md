@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nathanff99)](https://github.com/nathanff99){:target="_blank" rel="noopener"}
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanfischerhf/?locale=en_US/)](https://www.linkedin.com/in/nathanfischerhf/?locale=en_US){:target="_blank" rel="noopener"}
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanff99/)](https://www.instagram.com/nathanff99/){:target="_blank" rel="noopener"}
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nathanff99)](https://github.com/nathanff99)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanfischerhf/?locale=en_US/)](https://www.linkedin.com/in/nathanfischerhf/?locale=en_US)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanff99/)](https://www.instagram.com/nathanff99/)
 
 I'm Nathan, web developer focused and passionate about the front-end.
 
