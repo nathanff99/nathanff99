@@ -32,6 +32,4 @@ I'm Nathan, web developer focused and passionate about the front-end.
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
-
-![github contribution grid snake animation](https://github.com/nathanff99/nathanff99/blob/output/github-contribution-grid-snake.svg)
 </div>
