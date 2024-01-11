@@ -7,8 +7,8 @@
 I'm Nathan, web developer focused and passionate about the front-end.
 
 - I'm currently working at Atlas Technology with VueJs, Laravel, Blade, SCSS and Dockers.
-- I'm currently learn about React and React Native.
-- Studying and improving my English to beat new challenges.
+- I'm currently learning about game development with Unity 3D.
+- Studying Web Development in Vancouver, BC, Canada.
 - Interesting fact: I became a programmer because of my love for games, since I was 12 years old I created private Tibia servers where I had my first contact with web development.
 
 <div>
@@ -19,11 +19,13 @@ I'm Nathan, web developer focused and passionate about the front-end.
 <div style="display: inline-block; text-align: center"><br>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
